@@ -12,8 +12,8 @@ warnings.filterwarnings('ignore')
 
 # Database configuration
 db_config = {
-    'server': 'LAPTOP-IH3HR1CO',
-    'database': 'DataWarehouse_Stock'
+    'server': 'server name',
+    'database': 'database name'
 }
 
 # Stock queries mapping
@@ -265,6 +265,4 @@ if results:
 else:
     print("❌ ไม่มีข้อมูลที่ประมวลผลสำเร็จ")
 
-print(f"\n🌟 Analysis completed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-print(f"📊 Data Source: {db_config['server']}/{db_config['database']}")
 print("🚀 Happy Trading with AI Predictions! 🚀")
