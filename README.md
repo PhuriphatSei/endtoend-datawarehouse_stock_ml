@@ -38,3 +38,85 @@ Data Modeling - การจัดโครงสร้างข้อมูล
 Data Analytics - การวิเคราะห์ข้อมูล
 
 ------------------------------------------------------------------------------------------------------------
+
+**📖 Stocks Price Predictions**
+------------------------------------------------------------------------------------------------------------
+
+
+![output](https://github.com/user-attachments/assets/e2e1b5ff-1092-4282-b055-f938f81534e3)
+
+
+
+================================================================================
+📊 PREDICTION RESULTS SUMMARY - 7 ANGEL STOCKS
+================================================================================
+
+🏆 ACCURACY RANKING (จากดีที่สุด)
+----------------------------------------------------------------------
+1. MSFT (Microsoft Corp.)
+   🎯 Accuracy: 97.8%
+   📊 RMSE: $9.11 | MAE: $7.24
+   💰 Current Price: $423.20
+   🔮 Next Prediction: $425.81 📈 +0.6%
+   📈 Data Points: 2,515
+
+2. GOOGL (Alphabet Inc.)
+   🎯 Accuracy: 97.5%
+   📊 RMSE: $4.19 | MAE: $3.26
+   💰 Current Price: $190.79
+   🔮 Next Prediction: $186.26 📉 -2.4%
+   📈 Data Points: 2,515
+
+3. AAPL (Apple Inc.)
+   🎯 Accuracy: 97.2%
+   📊 RMSE: $6.83 | MAE: $5.22
+   💰 Current Price: $251.59
+   🔮 Next Prediction: $240.84 📉 -4.3%
+   📈 Data Points: 2,515
+
+4. AMZN (Amazon.com Inc.)
+   🎯 Accuracy: 96.1%
+   📊 RMSE: $7.31 | MAE: $5.70
+   💰 Current Price: $221.30
+   🔮 Next Prediction: $216.60 📉 -2.1%
+   📈 Data Points: 2,515
+
+5. META (Meta Platforms Inc.)
+   🎯 Accuracy: 95.2%
+   📊 RMSE: $20.04 | MAE: $14.97
+   💰 Current Price: $590.71
+   🔮 Next Prediction: $569.69 📉 -3.6%
+   📈 Data Points: 2,515
+
+6. TSLA (Tesla Inc.)
+   🎯 Accuracy: 92.5%
+   📊 RMSE: $24.80 | MAE: $18.56
+   💰 Current Price: $417.41
+   🔮 Next Prediction: $419.93 📈 +0.6%
+   📈 Data Points: 2,515
+
+7. NVDA (NVIDIA Corp.)
+   🎯 Accuracy: 91.0%
+   📊 RMSE: $4.49 | MAE: $3.51
+   💰 Current Price: $137.47
+   🔮 Next Prediction: $137.79 📈 +0.2%
+   📈 Data Points: 2,515
+
+📈 OVERALL PERFORMANCE
+Average Accuracy: 95.3%
+Average RMSE: $10.97
+Best Performer: MSFT (97.8% accuracy)
+
+
+💡 HIGH CONFIDENCE PREDICTIONS (>85% accuracy):
+   ⭐ AAPL: 97.2% accuracy, -4.3% expected change
+   ⭐ MSFT: 97.8% accuracy, +0.6% expected change
+   ⭐ GOOGL: 97.5% accuracy, -2.4% expected change
+   ⭐ TSLA: 92.5% accuracy, +0.6% expected change
+   ⭐ NVDA: 91.0% accuracy, +0.2% expected change
+   ⭐ META: 95.2% accuracy, -3.6% expected change
+   ⭐ AMZN: 96.1% accuracy, -2.1% expected change
+
+🚀 Happy Trading with AI Predictions! 🚀
+
+------------------------------------------------------------------------------------------------------------
