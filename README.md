@@ -42,8 +42,7 @@ Data Analytics - การวิเคราะห์ข้อมูล
 **📖 Stocks Price Predictions**
 ------------------------------------------------------------------------------------------------------------
 
-
-![output](https://github.com/user-attachments/assets/e2e1b5ff-1092-4282-b055-f938f81534e3)
+![output](https://github.com/user-attachments/assets/ad836b19-4965-4b8d-94c6-91b141081dfc)
 
 
 
